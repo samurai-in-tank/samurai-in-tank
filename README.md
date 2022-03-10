@@ -1,5 +1,5 @@
-<h1 align="center">Student of UCODE IT Academy
-    <h2>
+<h1 align="center">Student of UCODE IT Academy</h1>
+<h2>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/UCODE/ucode.png" height="60px">
@@ -8,8 +8,7 @@
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/UCODE/lms.png" height="60px">
         </a>
     </p>
-    </h2>
-</h1>
+</h2>
 <h3 align="center">Language skills:</h3>
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ru.png" width="15"/></a><b> Russian </b>— C1<br>

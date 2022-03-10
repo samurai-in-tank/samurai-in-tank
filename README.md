@@ -15,7 +15,7 @@
     <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/></a><b> Ukrainian </b>— B1<br>
     <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/></a><b> English </b>— С1<br>
 </p>
-<h2 align="center">Social Network:
+<h2 align="center">Social Network:</h2>
     <p align="center">
         <a href="#" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">
@@ -33,4 +33,4 @@
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/youtube.png" height="40px">
         </a>
     </p>
-</h2>
+

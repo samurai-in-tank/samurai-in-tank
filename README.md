@@ -15,14 +15,22 @@
     <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/></a><b> Ukrainian </b>— B1<br>
     <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/></a><b> English </b>— С1<br>
 </p>
-<h3 align="center"></h3>
-<h2>
+<h2>Social Network:
     <p align="center">
-        <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/UCODE/ucode.png" height="60px">
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="30px">
         </a>
-        <a href="https://lms.khpi.ucode-connect.study/login" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/UCODE/lms.png" height="60px">
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="30px">
+        </a>
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="30px">
+        </a>
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/gmail.png" height="30px">
+        </a>
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/youtube.png" height="30px">
         </a>
     </p>
 </h2>

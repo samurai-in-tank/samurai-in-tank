@@ -9,7 +9,7 @@
         </a>
     </p>
 </h2>
-<h2 align="center">Language skills:</h2>
+<h3 align="center">Language skills:</h3>
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ru.png" width="15"/></a><b> Russian </b>— C1<br>
     <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/></a><b> Ukrainian </b>— B1<br>

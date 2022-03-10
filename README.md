@@ -1,5 +1,3 @@
-
-
 <p align="center">
     <a href="https://ucode.world/en/" target="_blank">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/ucode.png" height="100px">

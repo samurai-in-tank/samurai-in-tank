@@ -17,7 +17,7 @@
 </p>
 <h2> </h2>
 <h2 align="center">Social Network:
-    <span> </span>
+    <p> </p>
     <p align="center">
         <a href="#" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">

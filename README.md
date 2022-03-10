@@ -5,7 +5,7 @@
     <a href="https://lms.khpi.ucode-connect.study/login" target="_blank">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/lms.png" height="100px">
     </a>
-    <a href="https://lms.khpi.ucode-connect.study/login" target="_blank">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/discord.png" height="100px">
+    <a href="#" target="_blank">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/_discord.png" height="100px">
     </a>
 </p>

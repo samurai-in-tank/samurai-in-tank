@@ -45,8 +45,8 @@
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/csharp.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/css.png" height="70px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="70px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/css.png" height="65px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="65px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/git.png" height="80px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/mysql.png" height="80px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="80px">

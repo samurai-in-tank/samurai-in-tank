@@ -56,4 +56,3 @@
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
     </p>
 </h2>
-

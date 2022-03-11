@@ -25,7 +25,7 @@
         <a href="https://t.me/Camyrau_B_Tanke" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="40px">
         </a>
-        <a href="#" target="_blank">
+        <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="40px">
         </a>
         <a href="mailto:gunko.vlad.21.09.2001a@gmail.com" target="_blank">

@@ -42,9 +42,6 @@
 <h2 align="center">Skills:
     <p> </p>
     <p align="center">
-        <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/UCODE/ucode.png" height="60px">
-        </a>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" height="60px">
     </p>
 </h2>
-

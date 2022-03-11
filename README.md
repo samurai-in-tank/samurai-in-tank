@@ -45,16 +45,16 @@
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
         </a>
-        <a href="" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
         </a>
-        <a href="" target="_blank">    
+        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/csharp.png" height="60px">
         </a>
-        <a href="" target="_blank">    
+        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/css.png" height="65px">
         </a>
-        <a href="" target="_blank">    
+        <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="65px">
         </a>
     </p>

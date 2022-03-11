@@ -42,6 +42,14 @@
 <h2 align="center">Skills:
     <p> </p>
     <p align="center">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/csharp.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/css.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/git.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/mysql.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
     </p>
 </h2>

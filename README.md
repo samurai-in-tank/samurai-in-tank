@@ -42,7 +42,7 @@
 <h2 align="center">Skills:
     <p> </p>
     <p align="center">
-        <a href="" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
         </a>
         <a href="" target="_blank">

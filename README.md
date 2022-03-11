@@ -24,7 +24,7 @@
         <a href="#" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">
         </a>
-        <a href="https://t.me/Camyrau_B_Tanke" target="_parent ">
+        <a href="https://t.me/Camyrau_B_Tanke" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="40px">
         </a>
         <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">

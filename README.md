@@ -49,7 +49,7 @@
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="65px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/git.png" height="80px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/mysql.png" height="80px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="66px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="70px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
     </p>
 </h2>

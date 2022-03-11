@@ -21,10 +21,10 @@
 <h2 align="center">Social Network:
     <p> </p>
     <p align="center">
-        <a href="#" target="_blank">
+        <a href="#" target="_blank" rel="noopener">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">
         </a>
-        <a href="https://t.me/Camyrau_B_Tanke" target="_blank">
+        <a href="https://t.me/Camyrau_B_Tanke" target="_blank" rel="noopener">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="40px">
         </a>
         <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">

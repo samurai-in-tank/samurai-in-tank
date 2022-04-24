@@ -74,5 +74,8 @@
         <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
         </a>
+        <a href="https://unity.com/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/unity.png" height="60px">
+        </a>
     </p>
 </h2>

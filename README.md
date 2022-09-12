@@ -1,19 +1,31 @@
 <h1 align="center">Student of
-    <h3 align="center">1) UCODE IT Academy</h3>
-    <h3 align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
-    <h3 align="center">2) Kauno Technologijos Universitetas</h3>
-    <p> </p>
-    <p align="center">
-        <a href="https://ucode.world/en/" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ucode.png" height="60px">
-        </a>
-        <a href="https://www.kpi.kharkov.ua/eng/" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/pki-logo.png" height="60px">
-        </a>
-        <a href="https://ktu.edu/" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ktu-logo.png" height="60px">
-        </a>
-    </p>
+
+<table width="100%" border="0" cellpadding="4" align="center">
+    <tr>
+        <th>
+            <a href="https://ucode.world/en/" target="_blank">
+                <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ucode.png" height="60px">
+            </a>
+        </th>
+        <th>UCODE IT Academy</th>
+    </tr>
+    <tr>
+        <th>
+            <a href="https://www.kpi.kharkov.ua/eng/" target="_blank">
+                <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/pki-logo.png" height="60px">
+            </a>
+        </th>
+        <th>National Technical University «Kharkiv Polytechnic Institute»</th>
+    </tr>
+    <tr>
+        <th>
+            <a href="https://ktu.edu/" target="_blank">
+                <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ktu-logo.png" height="60px">
+            </a>
+        </th>
+        <th>Kauno Technologijos Universitetas</th>
+    </tr>
+</table>
 </h1>
 
 <h2> </h2>

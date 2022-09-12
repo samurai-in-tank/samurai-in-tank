@@ -60,6 +60,9 @@
         <a href="https://www.youtube.com/channel/UCCIaTyFJqvO1SanxoltkOAA" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/youtube.png" height="40px">
         </a>
+        <a href="#" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/linkedin.png" height="40px">
+        </a>
     </p>
 </h2>
 

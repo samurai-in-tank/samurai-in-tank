@@ -79,7 +79,7 @@
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/react.png" height="60px">
         </a>
         <a href="https://angular.io/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/angular.png" height="80px">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/angular.png" height="60px">
         </a>
         <a href="https://www.java.com/en/" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/java.png" height="60px">

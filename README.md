@@ -1,4 +1,7 @@
-<h1 align="center">Student of <br> 1) UCODE IT Academy 2) National Technical University «Kharkiv Polytechnic Institute»
+<h1 align="center">Student of
+    <h3 align="center">1) UCODE IT Academy</h3>
+    <h3 align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
+    <h3 align="center">2) Kauno Technologijos Universitetas</h3>
     <p> </p>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">

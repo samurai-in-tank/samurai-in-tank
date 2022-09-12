@@ -91,6 +91,9 @@
         <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/html.png" height="65px">
         </a>
+        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/js.png" height="60px">
+        </a>
     </p>
     <p align="center">
         <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> 
@@ -98,9 +101,6 @@
         </a>
         <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/mysql.png" height="80px">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/js.png" height="60px">
         </a>
         <a href="https://nodejs.org/en/about/" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="60px">
@@ -113,6 +113,17 @@
 <h2 align="center">I'm learning now:
     <p> </p>
     <p align="center">
+        <a href="https://ru.reactjs.org/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/react.png" height="60px">
+        </a>
+        <a href="https://angular.io/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/angularjs.png" height="80px">
+        </a>
+        <a href="https://www.java.com/en/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/java.png" height="60px">
+        </a>
+    </p>
+    <p align="center">I'm learning now:
         <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
         </a>
@@ -121,15 +132,6 @@
         </a>
         <a href="https://unity.com/" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/unity.png" height="60px">
-        </a>
-        <a href="https://ru.reactjs.org/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/react.png" height="60px">
-        </a>
-        <a href="https://angular.io/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/angularjs.png" height="60px">
-        </a>
-        <a href="https://www.java.com/en/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/java.png" height="60px">
         </a>
     </p>
 </h2>

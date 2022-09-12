@@ -1,16 +1,16 @@
 <h1 align="center">Student of
-    <h3 href="https://ucode.world/" align="center">1) UCODE IT Academy</h3>
-    <h3 href="https://www.kpi.kharkov.ua/eng/" align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
-    <h3 href="https://ktu.edu/" align="center">2) Kauno Technologijos Universitetas</h3>
+    <h3 align="center">1) UCODE IT Academy</h3>
+    <h3 align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
+    <h3 align="center">2) Kauno Technologijos Universitetas</h3>
     <p> </p>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ucode.png" height="60px">
         </a>
-        <a href="https://lms.khpi.ucode-connect.study/login" target="_blank">
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/kpi-logo.png" height="60px">
+        <a href="https://www.kpi.kharkov.ua/eng/" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/pki-logo.png" height="60px">
         </a>
-        <a href="https://lms.khpi.ucode-connect.study/login" target="_blank">
+        <a href="https://ktu.edu/" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ktu-logo.png" height="60px">
         </a>
     </p>

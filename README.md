@@ -98,6 +98,10 @@
     </p>
 </h2>
 
+<p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&hide_border=none&langs_count=8&theme=dark"/>
+</p>
+
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>
@@ -120,8 +124,6 @@
                 <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">
                     <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="40px">
                 </a>
-            </p>
-            <p align="center">
                 <a href="mailto:gunko.vlad.21.09.2001a@gmail.com" target="_blank">
                     <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/gmail.png" height="40px">
                 </a>
@@ -132,9 +134,6 @@
                     <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/linkedin.png" height="40px">
                 </a>
             </p>
-        </th>
-        <th>
-            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&hide_border=none&langs_count=8&theme=dark"/>
         </th>
     </tr>
 </table>

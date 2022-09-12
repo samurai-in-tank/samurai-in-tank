@@ -97,7 +97,7 @@
 <h2 align="center">⚙️ GitHub Analytics: <br>
     <p align="center">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamyrauBTanke&show_icons=true&include_all_commits=true&count_private=true&hide_border=none&border_radius=15px&theme=algolia"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&hide_border=none&langs_count=8&border_radius=15&pxtheme=algolia"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&hide_border=none&langs_count=8&border_radius=15px&pxtheme=algolia"/>
     </p>
 </h2>
 <table width="100%" border="0" cellpadding="4" align="center">

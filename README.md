@@ -94,9 +94,10 @@
     </p>
 </h2>
 
-<p align="center">
+<h2 align="center">⚙️ GitHub Analytics:
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&hide_border=none&langs_count=8&theme=dark"/>
-</p>
+</h2>
 
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>

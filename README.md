@@ -97,6 +97,7 @@
 <h2 align="center">⚙️ GitHub Analytics:<p></p>
     <p align="center">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CamyrauBTanke&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+        <img height="180em" src="https://streak-stats.demolab.com/?user=CamyrauBTanke&theme=dark"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CamyrauBTanke&layout=compact&langs_count=8&theme=dark"/>
     </p>
 </h2>

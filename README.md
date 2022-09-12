@@ -1,6 +1,9 @@
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>
+            <h1 align="center">Link</h1>
+        </th>
+        <th>
             <h1 align="center">Student of</h1>
         </th>
     </tr>

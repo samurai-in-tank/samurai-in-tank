@@ -7,7 +7,9 @@
                 <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ucode.png" height="60px">
             </a>
         </th>
-        <th>UCODE IT Academy</th>
+        <th>
+            <h3 align="center">UCODE IT Academy</h3>
+        </th>
     </tr>
     <tr>
         <th>
@@ -15,7 +17,9 @@
                 <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/pki-logo.png" height="60px">
             </a>
         </th>
-        <th>National Technical University «Kharkiv Polytechnic Institute»</th>
+        <th>
+            <h3 align="center">National Technical University «Kharkiv Polytechnic Institute»</h3>
+        </th>
     </tr>
     <tr>
         <th>
@@ -23,7 +27,9 @@
                 <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/Student/ktu-logo.png" height="60px">
             </a>
         </th>
-        <th>Kauno Technologijos Universitetas</th>
+        <th>
+            <h3 align="center">Kauno Technologijos Universitetas</h3>
+        </th>
     </tr>
 </table>
 </h1>

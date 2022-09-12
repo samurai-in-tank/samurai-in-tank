@@ -39,6 +39,8 @@
     </tr>
 </table>
 
+<h2> </h2>
+
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>
@@ -106,16 +108,28 @@
         <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
         </a>
-        <a href="https://unity.com/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/unity.png" height="60px">
-        </a>
     </p>
-    <p align="center">I'm learning now:
+</h2>
+<h2 align="center">I'm learning now:
+    <p> </p>
+    <p align="center">
         <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
         </a>
         <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/csharp.png" height="60px">
+        </a>
+        <a href="https://unity.com/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/unity.png" height="60px">
+        </a>
+        <a href="https://ru.reactjs.org/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/react.png" height="60px">
+        </a>
+        <a href="https://angular.io/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/angularjs.png" height="60px">
+        </a>
+        <a href="https://www.java.com/en/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/java.png" height="60px">
         </a>
     </p>
 </h2>

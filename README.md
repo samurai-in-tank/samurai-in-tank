@@ -103,37 +103,35 @@
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>
-            <h3 align="center">🔠 Language skills:
-                <p align="center">
-                    <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ru.png" width="15"/> Russian</a><b> </b>— C2<br>
-                    <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/> Ukrainian</a><b> </b>— C1<br>
-                    <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B1<br>
-                </p>
-            </h3>
+            <h3 align="center">🔠 Language skills:</h3>
+            <p align="center">
+                <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ru.png" width="15"/> Russian</a><b> </b>— C2<br>
+                <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/> Ukrainian</a><b> </b>— C1<br>
+                <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B1<br>
+            </p>
         </th>
         <th>
-           <h2 align="center">🌐 Social Network:
-                <p align="center">
-                    <a href="#" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">
-                    </a>
-                    <a href="https://t.me/Camyrau_B_Tanke" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="40px">
-                    </a>
-                    <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="40px">
-                    </a>
-                    <a href="mailto:gunko.vlad.21.09.2001a@gmail.com" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/gmail.png" height="40px">
-                    </a>
-                    <a href="https://www.youtube.com/channel/UCCIaTyFJqvO1SanxoltkOAA" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/youtube.png" height="40px">
-                    </a>
-                    <a href="https://www.linkedin.com/in/vladyslav-hunko-4521a8250" target="_blank">
-                        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/linkedin.png" height="40px">
-                    </a>
-                </p>
-            </h2> 
+           <h2 align="center">🌐 Social Network:</h2> 
+            <p align="center">
+                <a href="#" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/discord.png" height="40px">
+                </a>
+                <a href="https://t.me/Camyrau_B_Tanke" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/telegram.png" height="40px">
+                </a>
+                <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="40px">
+                </a>
+                <a href="mailto:gunko.vlad.21.09.2001a@gmail.com" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/gmail.png" height="40px">
+                </a>
+                <a href="https://www.youtube.com/channel/UCCIaTyFJqvO1SanxoltkOAA" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/youtube.png" height="40px">
+                </a>
+                <a href="https://www.linkedin.com/in/vladyslav-hunko-4521a8250" target="_blank">
+                    <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/linkedin.png" height="40px">
+                </a>
+            </p>
         </th>
     </tr>
 </table>

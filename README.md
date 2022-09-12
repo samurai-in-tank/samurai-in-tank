@@ -1,5 +1,9 @@
 <table width="100%" border="0" cellpadding="4" align="center">
-    <h1 align="center">Student of</h1>
+    <tr>
+        <th>
+            <h1 align="center">Student of</h1>
+        </th>
+    </tr>
     <tr>
         <th>
             <a href="https://ucode.world/en/" target="_blank">
@@ -32,10 +36,7 @@
     </tr>
 </table>
 
-<h2> </h2>
-
 <table width="100%" border="0" cellpadding="4" align="center">
-    <h1 align="center">Student of</h1>
     <tr>
         <th>
             <h3 align="center">Language skills:</h3>

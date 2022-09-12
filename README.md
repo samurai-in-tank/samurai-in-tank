@@ -1,10 +1,10 @@
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>
-            <h1 align="center">Link</h1>
+            <h3 align="center">Link</h3>
         </th>
         <th>
-            <h1 align="center">Student of</h1>
+            <h3 align="center">Student of</h3>
         </th>
     </tr>
     <tr>
@@ -14,7 +14,7 @@
             </a>
         </th>
         <th>
-            <h3 align="left">UCODE IT Academy</h3>
+            <h4 align="left">UCODE IT Academy</h4>
         </th>
     </tr>
     <tr>
@@ -24,7 +24,7 @@
             </a>
         </th>
         <th>
-            <h3 align="left">National Technical University «Kharkiv Polytechnic Institute»</h3>
+            <h4 align="left">National Technical University «Kharkiv Polytechnic Institute»</h4>
         </th>
     </tr>
     <tr>
@@ -34,7 +34,7 @@
             </a>
         </th>
         <th>
-            <h3 align="left">Kauno Technologijos Universitetas</h3>
+            <h4 align="left">Kauno Technologijos Universitetas</h4>
         </th>
     </tr>
 </table>

@@ -56,16 +56,14 @@
         <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/js.png" height="60px">
         </a>
-    </p>
-    <p align="center">
+        <a href="https://nodejs.org/en/about/" target="_blank"> 
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="60px">
+        </a>
         <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/git.png" height="70px">
         </a>
         <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/mysql.png" height="80px">
-        </a>
-        <a href="https://nodejs.org/en/about/" target="_blank"> 
-            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/nodejs.png" height="60px">
         </a>
         <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/photoshop.png" height="60px">
@@ -84,8 +82,6 @@
         <a href="https://www.java.com/en/" target="_blank"> 
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/java.png" height="60px">
         </a>
-    </p>
-    <p align="center">
         <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/cplusplus.png" height="60px">
         </a>

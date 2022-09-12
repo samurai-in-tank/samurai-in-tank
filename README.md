@@ -1,13 +1,7 @@
 <h1 align="center">Student of
-    <a href="https://ucode.world/" target="_blank">
-        <h3 align="center">1) UCODE IT Academy</h3>
-    </a>
-    <a href="https://www.kpi.kharkov.ua/eng/" target="_blank">
-        <h3 align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
-    </a>
-    <a href="https://ktu.edu/" target="_blank">
-        <h3 align="center">2) Kauno Technologijos Universitetas</h3>
-    </a>
+    <h3 href="https://ucode.world/" align="center">1) UCODE IT Academy</h3>
+    <h3 href="https://www.kpi.kharkov.ua/eng/" align="center">2) National Technical University «Kharkiv Polytechnic Institute»</h3>
+    <h3 href="https://ktu.edu/" align="center">2) Kauno Technologijos Universitetas</h3>
     <p> </p>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">

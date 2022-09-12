@@ -49,8 +49,6 @@
                 <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B1<br>
             </p>
         </th>
-    </tr>
-    <tr>
         <th>
             <h2 align="center">Social Network:</h2>
             <p align="center">
@@ -119,6 +117,5 @@
         <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">    
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/csharp.png" height="60px">
         </a>
-
     </p>
 </h2>

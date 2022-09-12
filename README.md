@@ -98,8 +98,6 @@
     </p>
 </h2>
 
-<h2> </h2>
-
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>

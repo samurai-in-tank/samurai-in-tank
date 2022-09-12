@@ -7,7 +7,7 @@
             </a>
         </th>
         <th>
-            <h3 align="center">UCODE IT Academy</h3>
+            <h3 align="left">UCODE IT Academy</h3>
         </th>
     </tr>
     <tr>
@@ -17,7 +17,7 @@
             </a>
         </th>
         <th>
-            <h3 align="center">National Technical University «Kharkiv Polytechnic Institute»</h3>
+            <h3 align="left">National Technical University «Kharkiv Polytechnic Institute»</h3>
         </th>
     </tr>
     <tr>
@@ -27,7 +27,7 @@
             </a>
         </th>
         <th>
-            <h3 align="center">Kauno Technologijos Universitetas</h3>
+            <h3 align="left">Kauno Technologijos Universitetas</h3>
         </th>
     </tr>
 </table>

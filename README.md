@@ -120,6 +120,8 @@
                 <a href="https://www.instagram.com/Camyrau_B_Tanke/" target="_blank">
                     <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/instagram.png" height="40px">
                 </a>
+            </p>
+            <p align="center">
                 <a href="mailto:gunko.vlad.21.09.2001a@gmail.com" target="_blank">
                     <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/social_network/gmail.png" height="40px">
                 </a>

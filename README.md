@@ -70,7 +70,7 @@
         </a>
     </p>
 </h2>
-<h2 align="center">🛠 I'm learning now:
+<h2 align="center">🛠 Actively learn and practice:
     <p> </p>
     <p align="center">
         <a href="https://ru.reactjs.org/" target="_blank"> 
@@ -108,7 +108,7 @@
             <p align="center">
                 <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ru.png" width="15"/> Russian</a><b> </b>— C2<br>
                 <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ua.png" width="15"/> Ukrainian</a><b> </b>— C1<br>
-                <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B1<br>
+                <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B2<br>
             </p>
         </th>
         <th>

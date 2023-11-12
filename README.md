@@ -1,3 +1,19 @@
+## 🚀 About Me
+Hello! 👋 I am an experienced frontend developer, primarily specializing in Angular but also possessing extensive experience in React, RxJS, Node.js
+
+### 💻 Experience:
+I actively contribute to the development of high-quality frontend applications using Angular. The company I work for has a mission to revolutionize the logistics industry through the use of advanced technological solutions. Our goal is to create innovative products that optimize and enhance processes in the field of logistics, making them more efficient and transparent.
+
+### 🚀 About the Company whea I work now:
+My current company is committed to revolutionizing logistics using cutting-edge technology solutions. Our mission is to create innovative products aimed at optimizing and improving logistics processes, making them more efficient and transparent.
+
+### 📚Education:
+-  I graduated from [Druzhkivsʹkyy Fakhovyy Koledzh (Ddma)](http://dtdgma.org.ua/);
+-  Have also undergone significant training at [Kharkiv Polytechnic Institute (KHPI)](https://www.kpi.kharkov.ua/eng/);
+-  Currently, I am continuing my education at [Kaunas University of Technology (KTU)](https://ktu.edu/), aiming for continuous growth and improvement.
+
+🚀 My goal is not just to develop but to create innovative and efficient web applications that not only meet but exceed user expectations. I am ready to collaborate, open to new challenges, and committed to continuous improvement. Let's work together to make the web world better! 🌐✨
+<hr/>
 <h2>📍Languages:
     <p> </p>
     <p align="center">

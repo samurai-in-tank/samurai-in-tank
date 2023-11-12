@@ -1,55 +1,76 @@
-
-<h2></h2>
-
-<h2 align="center">⚔️ Skills:
-    <p></p>
+<h2>📍Languages:
+    <p> </p>
     <p align="center">
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/c.png" height="60px">
+            <img src="https://skillicons.dev/icons?i=c"/>
         </a>
-        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">    
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/css.png" height="65px">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">    
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/html.png" height="65px">
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=cs"/>
         </a>
         <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/js.png" height="60px">
+            <img src="https://skillicons.dev/icons?i=js"/>
         </a>
-        <a href="https://nodejs.org/en/about/" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/nodejs.png" height="60px">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/git.png" height="70px">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/mysql.png" height="80px">
-        </a>
-        <a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/photoshop.png" height="60px">
+        <a href="https://www.typescriptlang.org/" target="_blank"> 
+            <img src="https://skillicons.dev/icons?i=ts"/>
         </a>
     </p>
 </h2>
-<h2 align="center">🛠 Actively learn and practice:
+
+<h2>📍Front-End Development:
     <p> </p>
     <p align="center">
         <a href="https://ru.reactjs.org/" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/react.png" height="60px">
+            <img src="https://skillicons.dev/icons?i=react"/>
         </a>
         <a href="https://angular.io/" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/angular.png" height="60px">
+            <img src="https://skillicons.dev/icons?i=angular"/>
         </a>
-        <a href="https://www.java.com/en/" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/java.png" height="60px">
+        <a href="https://rxjs.dev/" target="_blank">    
+            <img src="https://skillicons.dev/icons?i=reactivex"/>
         </a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/cplusplus.png" height="60px">
+        <a href="https://nodejs.org/en/about/" target="_blank"> 
+            <img src="https://skillicons.dev/icons?i=nodejs"/>
         </a>
-        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">    
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/csharp.png" height="60px">
+        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">    
+            <img src="https://skillicons.dev/icons?i=css"/>
         </a>
-        <a href="https://unity.com/" target="_blank"> 
-            <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/skills/unity.png" height="60px">
+        <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">    
+            <img src="https://skillicons.dev/icons?i=html"/>
+        </a>
+        <a href="https://sass-lang.com/" target="_blank">    
+            <img src="https://skillicons.dev/icons?i=sass"/>
+        </a>
+        <a href="https://gulpjs.com/" target="_blank">    
+            <img src="https://skillicons.dev/icons?i=gulp"/>
+        </a>
+    </p>
+</h2>
+
+<h2>📍Software + Database + Other:
+    <p> </p>
+    <p align="center" text-align="center">
+        <a href="https://www.figma.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=figma"/>
+        </a>
+        <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+            <img src="https://skillicons.dev/icons?i=ps"/>
+        </a>
+        <a href="https://www.postman.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=postman"/>
+        </a>
+        •
+        <a href="https://www.mysql.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=mysql"/>
+        </a>
+        <a href="https://en.wikipedia.org/wiki/SQLite" target="_blank">
+            <img src="https://skillicons.dev/icons?i=sqlite"/>
+        </a>
+        •
+        <a href="https://unity.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=unity"/>
+        </a>
+        <a href="https://github.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=github"/>
         </a>
     </p>
 </h2>
@@ -66,13 +87,13 @@
         <th>
             <h3 align="center">🔠 Language skills:</h3>
             <p align="center">
-                <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/language/ru.png" width="15"/> Russian</a><b> </b>— C2<br>
-                <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/language/ua.png" width="15"/> Ukrainian</a><b> </b>— C1<br>
-                <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/language/ang.png" width="15"/> English</a><b> </b>— B2<br>
+                <a href="https://en.wikipedia.org/wiki/Russian_language" target="_blank"><img src="https://img.shields.io/badge/English-B2-blue"/></a><br/>
+                <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://img.shields.io/badge/Ukrainian-C1-blue"/></a><br/>
+                <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://img.shields.io/badge/Russian-C1-blue"/></a><br/>
             </p>
         </th>
         <th>
-           <h2 align="center">🌐 Social Network:</h2> 
+           <h3 align="center">🌐 Social Network:</h3> 
             <p align="center">
                 <a target="_blank" href="#">
                     <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/social_network/discord.png" height="40px">
@@ -84,13 +105,13 @@
                     <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/social_network/instagram.png" height="40px">
                 </a>
                 <a target="_blank" href="mailto:gunko.vlad.21.09.2001a@gmail.com">
-                    <img src="https://github.com/CamyrauBTanke/samurai-in-tank/blob/main/img/social_network/gmail.png" height="40px">
+                    <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/social_network/gmail.png" height="40px">
                 </a>
                 <a target="_blank" href="https://www.youtube.com/channel/UCCIaTyFJqvO1SanxoltkOAA">
-                    <img src="https://github.com/CamyrauBTanke/samurai-in-tank/blob/main/img/social_network/youtube.png" height="40px">
+                    <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/social_network/youtube.png" height="40px">
                 </a>
                 <a target="_blank" href="https://www.linkedin.com/in/hunko-vladyslav/">
-                    <img src="https://github.com/CamyrauBTanke/samurai-in-tank/blob/main/img/social_network/linkedin.png" height="40px">
+                    <img src="https://github.com/samurai-in-tank/samurai-in-tank/blob/main/img/social_network/linkedin.png" height="40px">
                 </a>
             </p>
         </th>

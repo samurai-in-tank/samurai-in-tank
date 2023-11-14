@@ -37,7 +37,7 @@ My current company is committed to revolutionizing logistics using cutting-edge 
 <h2>📍Front-End Development:
     <p> </p>
     <p align="center">
-        <a href="https://ru.reactjs.org/" target="_blank"> 
+        <a href="https://react.dev/" target="_blank"> 
             <img src="https://skillicons.dev/icons?i=react"/>
         </a>
         <a href="https://angular.io/" target="_blank"> 

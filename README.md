@@ -4,7 +4,7 @@ Hello! 👋 I am an experienced frontend developer, primarily specializing in An
 ### 💻 Experience:
 I actively contribute to the development of high-quality frontend applications using Angular. The company I work for has a mission to revolutionize the logistics industry through the use of advanced technological solutions. Our goal is to create innovative products that optimize and enhance processes in the field of logistics, making them more efficient and transparent.
 
-### 🏛️ About the Company whea I work now:
+### 🏛️ About the Company I working now:
 My current company is committed to revolutionizing logistics using cutting-edge technology solutions. Our mission is to create innovative products aimed at optimizing and improving logistics processes, making them more efficient and transparent.
 
 ### 📚Education:

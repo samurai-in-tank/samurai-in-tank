@@ -2,7 +2,7 @@
 Hello! 👋 I am an experienced frontend developer, primarily specializing in Angular but also possessing extensive experience in React, RxJS, Node.js. My goal is not just to develop but to create innovative and efficient web applications that not only meet but exceed user expectations. I am ready to collaborate, open to new challenges, and committed to continuous improvement. Let's work together to make the web world better! 🌐✨
 
 ### 💻 Experience:
-I worked for 1.5 years as a Lead Frontend Developer on a major project aimed at transforming the logistics industry. I developed high-quality frontend application using Angular. Unfortunately, the company has since dissolved. Currently, I am focused on developing my own library for Angular applications and working on creating my own product.
+I worked for 1.5 years as a Lead Frontend Developer at [Teleporto](https://www.linkedin.com/company/teleportoinc/) on a major project aimed at transforming the logistics industry. I developed a high-quality frontend application using Angular. Currently, I am focused on developing my own library for Angular applications and working on creating my own product.
 
 ### 📚 Education:
 - Graduated from [Kharkiv Polytechnic Institute (KHPI)](https://www.kpi.kharkov.ua/eng/) in June 29, 2024;

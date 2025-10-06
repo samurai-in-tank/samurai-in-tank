@@ -3,24 +3,6 @@ Hi, I'm a results-driven **Frontend / Fullstack Developer** with a strong focus 
 
 I build performant, scalable web applications with clean architecture and maintainable code — both on the frontend and backend. I value responsibility, clear communication, and thoughtful engineering.
 
-
-### 💼 Work Experience
-**🚀 [Teleporto](https://www.linkedin.com/company/teleportoinc/) (2 years)** - *Lead Frontend Developer*
-- Solely built and maintained a scalable **Angular** frontend for a logistics platform  
-- Designed UI/UX in **Figma** and implemented responsive, high-performance interfaces  
-- Optimized app performance and improved **DX**  
-- Collaborated with backend and product teams for smooth full-stack delivery 
-
-
-### 🎓 Education:
-**Bachelor’s in Computer Science** - [Kharkiv Polytechnic Institute (KHPI)](https://www.kpi.kharkov.ua/eng/), 2024  
-- Specialization: Computer Science and Intelligent Systems  
-- Accredited by ZEvA (Germany)
-
-**Software Engineering Diploma** - [Druzhkivsʹkyy Fakhovyy Koledzh (Ddma)](http://dtdgma.org.ua/), 2021  
-- Professional Qualification: Technician-Programmer
-
-
 ### 🌐 Languages
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-C2-blue" />
